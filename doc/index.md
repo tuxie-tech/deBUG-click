@@ -9,6 +9,7 @@ hero:
     - back-plan.png
 info: >-
     Our re-implementation of the Mikroe TESTER 3 CLICK (MIKROE-6967), intended for internal development.
+canPurchase: true
 ---
 
 The MikroBUS de'BUG Click is a small development and test board for working with MikroBUS-compatible hardware.
